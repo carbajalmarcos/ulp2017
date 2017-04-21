@@ -1,0 +1,9 @@
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Optativa2\ULP2017\Optativa2\P\Practico2\Practico2-Op2\ejercicio2\obj\Debug\ejercicio2.pdb

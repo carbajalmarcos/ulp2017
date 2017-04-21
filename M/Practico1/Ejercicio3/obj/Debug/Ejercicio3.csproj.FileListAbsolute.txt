@@ -1,0 +1,6 @@
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio3\obj\Debug\Ejercicio3.pdb

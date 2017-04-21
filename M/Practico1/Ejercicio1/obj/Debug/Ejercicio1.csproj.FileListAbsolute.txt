@@ -1,0 +1,15 @@
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\bin\Debug\Ejercicio1.exe
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\bin\Debug\Ejercicio1.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\obj\Debug\Ejercicio1.exe
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\ULP2017-GitHub\Optativa2\P\Practico1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\ULP2017-GitHub\Optativa2\P\Practico1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\ULP2017-GitHub\Optativa2\P\Practico1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Optativa2\ULP2017\Optativa2\P\Practico1\Ejercicio1\obj\Debug\Ejercicio1.pdb

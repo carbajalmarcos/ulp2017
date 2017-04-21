@@ -1,0 +1,10 @@
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\bin\Debug\Ejercicio2.exe
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.frmForm1.resources
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.frmForm2.resources
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.Cache
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.exe
+c:\users\pablo\documents\visual studio 2013\Projects\Practico1-Op2\Ejercicio2\obj\Debug\Ejercicio2.pdb
